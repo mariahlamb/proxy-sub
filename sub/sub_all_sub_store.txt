@@ -1,15 +1,17 @@
 -- play_list --
 
 
+https://sub.cjcloud.cc/api/v1/client/subscribe?token=396e4f480da71439b9187c9f2d2b2b5b
 https://api.fuckyun.cc/api/v1/client/subscribe?token=e791ab84befa90ee50443bea41a75a68
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://trojanfree-76s.pages.dev/auto?sub#
 https://trojanfree-76s.pages.dev/auto?sub#auto?sub
+https://trojanfree-76s.pages.dev/auto?sub#
 https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
 https://too.st/8ug
 https://subhiddify.mmdv2.host/15f34214-d8de-41e9-ba72-93daeafc59ef?sub
+https://wd.vovo.pp.ua/d342d11e-d424-4583-b36e-524ab1f0afa4?clash
 https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
 https://damp-mode-4de5.6006101.workers.dev/sub?url=https%3A%2F%2Ftkpotc.xyz%2F%3FL2Rvd25sb2FkQ29uZmlnL0NsYXNoLmFzcHg%2FZXE9d2luZG93cyZ1cms9YWY0NTYzY2EtZWQxNS03ODk2LWIyMzItOTdycDAzZjY4NGRiJm1tPTQ1NjMyJjY5&amp;expand=true&amp;emoji=true&amp;list=false&amp;udp=false&amp;tfo=false&amp;scv=false
 https://damp-mode-4de5.6006101.workers.dev/sub?url=https%3A%2F%2Ftkpotc.xyz%2F%3FL2Rvd25sb2FkQ29uZmlnL0NsYXNoLmFzcHg%2FZXE9d2luZG93cyZ1cms9YWY0NTYzY2EtZWQxNS03ODk2LWIyMzItOTdycDAzZjY4NGRiJm1tPTQ1NjMyJjY5&amp;expand=true&amp;emoji=true&amp;list=false&amp;udp=ture&amp;tfo=ture&amp;scv=ture
@@ -18,6 +20,7 @@ https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631
 https://submit.xz61.cn:23443/api/v1/client/subscribe?token=d1c1df95b82e83bfe9524e3d85cf306b
 https://app.jisovpn.site/api/v1/client/subscribe?token=352049eecc0d30658488bcf11184018e
 https://zedping8.shop/sub/WmVkcGluZy5mcmVlLDE3MzEzNTA3MTYYznO59_ABL
+https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=757f549ca5f13a0c396902b4061798ae
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
@@ -26,23 +29,20 @@ https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be
 https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
 https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
 https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://sub.cjcloud.cc/api/v1/client/subscribe?token=396e4f480da71439b9187c9f2d2b2b5b
 https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
-https://sub.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b
 https://app.jisovpn.site/api/v1/client/subscribe?token=5d2f12c9211d3c62d9cfe6360f4da146#9itrguit
 https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
 https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://www.cwy-water.us.kg/api/v1/client/subscribe?token=daa0f9c43c5b7f91a08aee21dab0138c
 https://app.jisovpn.site/api/v1/client/subscribe?token=b87afe5c85c59f422ded2956e53ebdc5
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://sub.sanfen021.xyz/api/v1/client/subscribe?token=10f8989889abc9f0fc6fc550acfa6f91&amp;flag=clash
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
 https://hdfy8sub.achaemenidempireofpersia.uk/bwyvb477rykar/a6292090-afe1-4640-97a7-4f1d1d877cf1/#irancpi
+https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://smallairport-first-sub.top/api/v1/client/subscribe?token=accedcd63928dbc35bd6223ebe7f446f
 https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
@@ -51,13 +51,13 @@ https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://owo.o00o.ooo/ooo
-https://sub.443888.xyz/vless
+https://airport.raloar.top/api/v1/client/subscribe?token=11b30e08b74cafa1d1904f92c7b95b14
 https://1.bethebest.eu.org/api/v1/client/subscribe?token=ef027a5bfc788a6b7eddcc859a078b14
 https://app.jisovpn.site/api/v1/client/subscribe?token=d4a2ff59b9eb75913ac490a204bf83f0
-https://airport.raloar.top/api/v1/client/subscribe?token=11b30e08b74cafa1d1904f92c7b95b14
 https://api.fuckyun.cc/api/v1/client/subscribe?token=409f2a1348dc8de0d4e9d71c63054c51
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://app.jisovpn.site/api/v1/client/subscribe?token=3a2c5c3af56d5d53706df66c68c79f53
 https://ck2.yunxiangvip.mom/api/v1/client/subscribe?token=f24ac678c3991a445cfdb273e52f8d91
 https://gbtgurl.me/api/v1/client/subscribe?token=452dcf03cb144cfdec28b6c8e6573d27
 https://d3keb6jjtp861e.cloudfront.net/api/v1/client/subscribe?token=15985c2ff040f52caae30460d96e71e2
@@ -397,6 +397,7 @@ https://app.cloudlion.me/api/v1/client/subscribe?token=3d3164aceef39d2809d3bafbd
 https://app.cloudlion.me/api/v1/client/subscribe?token=6f9e141c70cb41781c9cfe41057d24c3&amp;types=all
 https://app.cloudlion.me/api/v1/client/subscribe?token=e759c440f53a07f75f4d6455239cb017
 https://app.jisovpn.site/api/v1/client/subscribe?token=352049eecc0d30658488bcf11184018e
+https://app.jisovpn.site/api/v1/client/subscribe?token=3a2c5c3af56d5d53706df66c68c79f53
 https://app.jisovpn.site/api/v1/client/subscribe?token=5d2f12c9211d3c62d9cfe6360f4da146#9itrguit
 https://app.jisovpn.site/api/v1/client/subscribe?token=5fc3e6eb0c07f3e3c11a5615618cac68
 https://app.jisovpn.site/api/v1/client/subscribe?token=b57605ca73be8d4d20d9e369720e17c0

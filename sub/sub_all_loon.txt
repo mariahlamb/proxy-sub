@@ -1,10 +1,5 @@
-https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
-https://sub.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b
-https://mc.jiedianxielou.workers.dev/
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://app.jisovpn.site/api/v1/client/subscribe?token=d4a2ff59b9eb75913ac490a204bf83f0
+https://sub1.jiatelin.cyou/api/v1/client/subscribe?token=fa5f8fbbf4612457bce2411d06c8c3d5
 https://gbtgurl.me/api/v1/client/subscribe?token=452dcf03cb144cfdec28b6c8e6573d27
-https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
-https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a

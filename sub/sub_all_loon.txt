@@ -1,7 +1,5 @@
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
-https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
+https://s.36y.me/v3/subscr?id=4bf074f47e9c4e4ba10d156e26199729
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://nuonuonet.uk/api/v1/client/subscribe?token=96a57e2c509347ae3eacc1d25326b933
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45

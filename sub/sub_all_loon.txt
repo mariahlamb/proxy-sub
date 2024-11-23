@@ -1,5 +1,7 @@
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
-https://www.catssr.top/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
+https://s.36y.me/v3/subscr?id=4bf074f47e9c4e4ba10d156e26199729
 https://sub.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://gbtgurl.me/api/v1/client/subscribe?token=452dcf03cb144cfdec28b6c8e6573d27
+https://sub.xn--9kqt24a0kz.com/xiaomi?token=02ab3068c2bf9a9ac34151ca80f78ec4
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=db8f691dbae4050ab22e5fe68351befb&amp;flag=clash
 https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink

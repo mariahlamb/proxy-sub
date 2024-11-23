@@ -1,6 +1,5 @@
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://sub.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b
-https://smallairport-first-sub.top/api/v1/client/subscribe?token=accedcd63928dbc35bd6223ebe7f446f
-https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45
+https://gbtgurl.me/api/v1/client/subscribe?token=452dcf03cb144cfdec28b6c8e6573d27
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink

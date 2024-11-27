@@ -1,8 +1,8 @@
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://sub.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b
+https://mc.jiedianxielou.workers.dev
+https://jilu.uuvpn.xyz/api/v1/client/subscribe?token=df8df202c3c1c3e044a8cbc9a5c20240
+https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 http://82.156.206.248:54455/api/v1/client/subscribe?token=ef2e196aec6b0a47d48fd6ce8ea61f62

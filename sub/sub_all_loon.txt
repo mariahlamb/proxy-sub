@@ -1,7 +1,9 @@
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
-https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
-https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
-https://ss.81dlg.com/dy/ss?token=ccd4d26cbbb9f3251034e2b7eb51e384
+https://xn--fhqu06a8m1asto.icu/linju?token=dc32eb48347ee31f210062af3f8a1eb0
+https://ss.81dlg.com/dy/ss?token=30d02147326f2ab92fd8779d8239070e
+https://mc.jiedianxielou.workers.dev/
+http://82.156.206.248:54455/api/v1/client/subscribe?token=ef2e196aec6b0a47d48fd6ce8ea61f62
 https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://ch.cukug.website/api/v1/client/subscribe?token=532b5378b3a92070cee1f6aa9cd6f577
+https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f

@@ -1,8 +1,7 @@
 https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
-https://ss2.sswiwi.com/api/v1/client/subscribe?token=e0d6d09fa4dbb8a75949b04e3e733322
-http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
 https://sub.52cloud.eu.org/api/v1/client/subscribe?token=b26fe554f300d7c9573d858c11b50a0b
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://mc.jiedianxielou.workers.dev/
+https://ch.cukug.website/api/v1/client/subscribe?token=532b5378b3a92070cee1f6aa9cd6f577
 https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://ch.cukug.website/api/v1/client/subscribe?token=262e83838bd9f81d148be799cc00accd
+https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009

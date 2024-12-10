@@ -1,27 +1,19 @@
 name: Fetch Subscriptions Source
 
-# 触发条件
 on:
   workflow_dispatch:
-
   schedule:
     - cron: '5 */1 * * *'
   watch:
     types: started
-  # - cron: '0 3,12 * * *'
-  # -'0 */1 * * *'
-  # -该规则表示每天从 0 点开始，每隔 1 个小时执行一次任务
-  # 表达式生成  https://crontab.guru/
 
- 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-
     - name: 迁出代码
       uses: actions/checkout@v2
-
+    
     - name: 安装Python
       uses: actions/setup-python@v2
       with:
@@ -37,27 +29,30 @@ jobs:
       
     - name: 设置时区
       run: sudo timedatectl set-timezone 'Asia/Shanghai'
-
+    
     - name: 安装依赖
       run: |
         pip install -r ./requirements.txt
+    
     - name: 执行任务
       run: |
         python ./main.py
+    
     - name: 生成节点列表
       run: |
-        python generate_nodes.py  # 确保你的仓库里有这个脚本    
-    - name: Commit
+        python generate_nodes.py
+    
+    - name: 更新 Gist
+      env:
+        GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+        GIST_ID: ${{ secrets.GIST_LINK }}
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add all_nodes.txt # 节点列表文件，相较于上个 commit 步骤新增的文件
-        git commit -m "🚀 更新节点列表 $(date '+%Y-%m-%d %H:%M:%S')" || echo "没有变化，跳过提交" 
-        git add ./sub   #这是pre_check.py定义的输出路径
-        git commit -m "🍀 爬取订阅源 $(date '+%Y-%m-%d %H:%M:%S')"
-        
-    - name: 推送更改到仓库
-      uses:  ad-m/github-push-action@master
-      with:
-         # github_token: ${{ secrets.TOKEN }}
-         branch: main
+        # 安装 GitHub CLI
+        curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+        echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+        sudo apt update
+        sudo apt install gh -y
+
+        # 使用 GitHub CLI 更新 Gist
+        gh auth login --with-token <<< "$GIST_TOKEN"
+        gh gist edit $GIST_ID all_nodes.txt

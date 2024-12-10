@@ -44,15 +44,19 @@ jobs:
     - name: 执行任务
       run: |
         python ./main.py
+    - name: 生成节点列表
+      run: |
+        python generate_nodes.py  # 确保你的仓库里有这个脚本    
     - name: Commit
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-
+        git add all_nodes.txt # 节点列表文件，相较于上个 commit 步骤新增的文件
+        git commit -m "🚀 更新节点列表 $(date '+%Y-%m-%d %H:%M:%S')" || echo "没有变化，跳过提交" 
         git add ./sub   #这是pre_check.py定义的输出路径
         git commit -m "🍀 爬取订阅源 $(date '+%Y-%m-%d %H:%M:%S')"
         
-    - name: 推送更改
+    - name: 推送更改到仓库
       uses:  ad-m/github-push-action@master
       with:
          # github_token: ${{ secrets.TOKEN }}

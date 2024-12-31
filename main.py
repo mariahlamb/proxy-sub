@@ -3,6 +3,8 @@ import os
 import yaml
 import threading
 import requests
+import tqdm
+import base64
 
 from loguru import logger
 from urllib.parse import quote

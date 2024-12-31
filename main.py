@@ -3,7 +3,7 @@ import os
 import yaml
 import threading
 import requests
-import tqdm
+from tqdm import tqdm
 import base64
 
 from loguru import logger
